@@ -1,7 +1,3 @@
-This document is a comprehensive, multi-page blueprint for the strategic, product, and technical execution of the **User Onboarding & AI Financial Profiling** pillar (Pillar 1) of the BadeBhaiSaab program. It details the exact user flow, content, data requirements, and underlying AI logic necessary to achieve the core goal: generating an accurate, proprietary **Alternative Credit Score (ACS)** and a **Membership Eligibility Decision**.
-
-***
-
 # **BadeBhaiSaab Product Concept: Pillar 1 Blueprint**
 # **User Onboarding & AI Financial Profiling (The Core Engine)**
 
